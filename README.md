@@ -106,7 +106,7 @@ python3 bot.py
                                                     ***[🌴 Telegram────────◇](https://t.me/Rawana_Developers)***
 
 ## Credits 
-***[🌴 Developer-SAVINDU────────◇]***(https://github.com/SAVINDU-DESHAN)
+***[🌴 Developer-SAVINDU────────◇](https://github.com/SAVINDU-DESHAN)***
 
 
 # Copyrights
